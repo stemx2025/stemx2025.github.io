@@ -172,14 +172,14 @@ Tired of hearing about coding and want to get going? Nothing is stopping you fro
     - Pick a good domain registrar like Namecheap, Cloudflare, etc.
   - Learning via a homelab isn't free. Plan to budget $200 in startup costs and $50 a month to add tools, upgrades, and new equipment. Keep an eye out for services that provide free tiers or lifetime licenses that you will actually use.
 
-- w3schools Git tutorial https://www.w3schools.com/git/default.asp
+- [w3schools Git tutorial](https://www.w3schools.com/git/default.asp)
 
-- w3schools python tutorial https://www.w3schools.com/python/default.asp
+- [w3schools python tutorial](https://www.w3schools.com/python/default.asp)
 
-- w3schools SQL tutorial https://www.w3schools.com/sql/default.asp
+- [w3schools SQL tutorial](https://www.w3schools.com/sql/default.asp)
 
-- w3schools bash tutorial https://www.w3schools.com/bash/bash_getstarted.php 
+- [w3schools bash tutorial](https://www.w3schools.com/bash/bash_getstarted.php)
 
-- roadmap.sh https://roadmap.sh/ (A complete list of everything about computing that you can learn. Yes, even Game Development, but be warned, that's 10 times more math than regular old business IT work.)
+- [roadmap.sh](https://roadmap.sh/)  (A complete list of everything about computing that you can learn. Yes, even Game Development, but be warned, that's 10 times more math than regular old business IT work.)
 
-- Pragmatic Progammer https://en.wikipedia.org/wiki/The_Pragmatic_Programmer (Great book. I suggest reading this right before graduating college.)
+- [Pragmatic Progammer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer) (Great book. I suggest reading this right before graduating college. Worth having on your shelf to lend to mentees.)
