@@ -4,9 +4,27 @@
 
 This is an educational blog for students at James Martin High School to learn about the software industry during the STEMX 2025 event. Instead of a slide deck presentation, this is an outline with the complete contents of our talk on one page.
 
+## Table of Contents
+- [Sign In Sheet](#sign-in-sheet)
+- [What I do as an IT professional](#what-i-do-as-an-it-professional)
+- [How I got here](#how-i-got-here)
+- [Licensure](#licensure)
+- [Job Outlook](#job-outlook)
+- [Everything Else](#everything-else)
+  - [How to break into the industry](#how-to-break-into-the-industry)
+  - [Practice your fundamentals](#practice-your-fundamentals)
+  - [Keep learning](#keep-learning)
+  - [Understand other programming languages, their paradigms, scripting languages, markup languages, etc.](#understand-other-programming-languages-their-paradigms-scripting-languages-markup-languages-etc)
+  - [Importance of teamwork and soft skills](#importance-of-teamwork-and-soft-skills)
+  - [IT career paths](#it-career-paths)
+  - [How to Impress College Recruiters](#how-to-impress-college-recruiters)
+  - [The Elephant in the Room: AI](#the-elephant-in-the-room-ai)
+  - [How IT shapes the world](#how-it-shapes-the-world)
+- [Tips, Links, and Resources](#tips-links-and-resources)
+
 
 # Sign In Sheet
-To record your name on the sign in sheet, sign up on github, learn how to use git and github, and send me a pull request! I will monitor this account for the rest of 2025 and accept all pull requests in the README.md file.
+To record your name on the sign in sheet, sign up on github, learn how to use git and github, then send me a pull request! I will monitor this account for the rest of 2025 and accept your pull requests for the README.md file.
 
 ```
 Faculty Sponsors:
@@ -51,19 +69,6 @@ None yet!
 - On this subject, I cannot provide more accurate information than the [Bureau of Labor Statistics' Occupational Outlook Handbook](https://www.bls.gov/ooh/).
 
 - In software development roles, [the projected job growth from 2024 to 2034 is 267k jobs, or 15%](https://www.bls.gov/ooh/Computer-and-Information-Technology/Software-developers.htm). This is the [fastest growing sector related to STEM, by-volume](https://www.bls.gov/ooh/most-new-jobs.htm). For comparison, the next highest by-volume are 166k jobs for Registered Nurses (5%) and 82k jobs for Data Scientists (34%).
-
-# How IT shapes the world
-
-- One of software's biggest impacts on the world is automatic computation. [This used to be a job title in the 1900's](https://rarehistoricalphotos.com/human-computer-women-profession/), where entire rooms of women whose job title was "Computer" were sent calculations to be done by hand, then returned to the requestor.
-  - Similarly, there has been an enormous reduction of office bureaucracy that is automated away by modern computer hardware over the past century.
-  - Without computers, we would need an army of 1000's of office workers to implement and enforce work procedures.
-  - With computers, that gets a lot more manageable with just a team of 100, or even a team of 10.
-
-- Smart devices and small device programming (aka microcontrollers) are everywhere.
-  - Many newer models of kitchen appliances have computers in them or digital components that needed a program written for them.
-  - The accelerator pedal in your car tells a computer how much gas to pump to the engine block. - The elevator in your building has computer controlling how it behaves.
-  - The payment system at your grocery store runs a secure cryptographic key signature against a payment card
-  
 
 # Everything Else
 
