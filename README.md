@@ -177,7 +177,7 @@ Tired of hearing about coding and want to get going? Nothing is stopping you fro
   - Buy a website domain and learn to fiddle with Linux to host video game server software for your friends.
     - This one's a great way to learn because now you have legitimate users, and a million bots around the world probing your server for vulneratbilies to break in.
     - Pick a good domain registrar like Namecheap, Cloudflare, etc.
-  - Learning via a homelab isn't free. Plan to budget $200 in startup costs and $50 a month to add tools, upgrades, and new equipment. Keep an eye out for services that provide free tiers or lifetime licenses that you will actually use.
+  - Learning via a homelab isn't free. Plan to budget $200 in startup costs and $50 a month to add tools, upgrades, and new equipment. Keep an eye out for services that provide free tiers or lifetime licenses that you will actually use. Don't forget about your internet data usage and your power utility usage. Read the label on those power cables, though in most cases they rearely hit even half their rated capacity.
 
 - [w3schools Git tutorial](https://www.w3schools.com/git/default.asp)
 
