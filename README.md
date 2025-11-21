@@ -33,6 +33,9 @@ Faculty Sponsors:
 Mrs. Meribah Treadway
 Mr. Joshua Ogg
 
+Classroom Host:
+Mr. Marcus Blanchard
+
 Guest Speaker :
 Mr. Michael Pham
 
