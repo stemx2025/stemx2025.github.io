@@ -41,6 +41,7 @@ Mr. Michael Pham
 
 Student Attendees :
 Tuyet Do
+Ryan (@whatwareweb)
 ```
 
 # What I do as an IT professional
