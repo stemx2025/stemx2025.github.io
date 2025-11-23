@@ -40,7 +40,7 @@ Guest Speaker :
 Mr. Michael Pham
 
 Student Attendees :
-None yet!
+Tuyet Do
 Ryan (@whatwareweb)
 ```
 
