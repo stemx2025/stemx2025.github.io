@@ -21,7 +21,6 @@ This is an educational blog for students at James Martin High School to learn ab
   - [IT career paths](#it-career-paths)
   - [How to Impress College Recruiters](#how-to-impress-college-recruiters)
   - [The Elephant in the Room: AI](#the-elephant-in-the-room-ai)
-  - [How IT shapes the world](#how-it-shapes-the-world)
 - [Tips, Links, and Resources](#tips-links-and-resources)
 
 
@@ -158,11 +157,11 @@ Ryan (@whatwareweb)
 ## The Elephant in the Room: AI
 
 - But did you mean...
-    - Large Language Models?
-    - Small Language Models?
-    - Machine Learning? (Now considered "old school" in less than a decade!)
-    - Model Context Protocol?
-    - AI security?
+  - Large Language Models?
+  - Small Language Models?
+  - Machine Learning? (Now considered "old school" in less than a decade!)
+  - Model Context Protocol?
+  - AI security?
 
 - The landmark [Attention Is All You Need paper](https://arxiv.org/abs/1706.03762) that led to the explosion LLMs over the past 2 years was published in 2017.
 
@@ -191,6 +190,8 @@ Tired of hearing about coding and want to get going? Nothing is stopping you fro
 
 - [w3schools bash tutorial](https://www.w3schools.com/bash/bash_getstarted.php)
 
-- [roadmap.sh](https://roadmap.sh/)  (A complete list of everything about computing that you can learn. Yes, even Game Development, but be warned, that's 10 times more math than regular old business IT work.)
+- [roadmap.sh](https://roadmap.sh/): A complete list of everything about computing that you can learn. This includes the usual technical roles, but also roles like business analysts, video game developers, AI security analysts [red-teaming](https://en.wikipedia.org/wiki/Red_team), and more.
 
-- [Pragmatic Progammer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer) (Great book. I suggest reading this right before graduating college. Worth having on your shelf to lend to mentees.)
+- [Pragmatic Progammer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer): Great book. I suggest reading this right before graduating college. Worth having on your shelf to lend to mentees.
+
+- [O'reilly Book recommendations](https://learning.oreilly.com/playlists/866d2bbe-6588-4f0c-8593-7b9fb3ece7b0/): For advanced readers. This is a recommended reading list that I send to my professional colleagues. Pragmatic Programmer is only the first book in the list.
